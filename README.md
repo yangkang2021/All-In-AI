@@ -1,7 +1,7 @@
 # All-In-AI
 
 ### 环境搭建
-- [linux(ubuntu22.04)+4090搭建AI工作站](linux%B4%EE%BD%A8%BB%B7%BE%B3.md)
+- [linux(ubuntu22.04)+4090搭建AI工作站](linux环境搭建.md)
 
 ### 大语言模型
 
