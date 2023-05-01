@@ -2,7 +2,7 @@
 
 ### 环境搭建
 - [linux(ubuntu22.04)+4090搭建AI工作站](linux搭建环境.md)
-
+- [gradio学习总结.md](gradio学习总结.md)
 ### 大语言模型
 - [学习李宏毅的《穷人如何低资源复刻自己的ChatGPT》](chatGPT/学习李宏毅的《穷人如何低资源复刻自己的ChatGPT》.md)
 - [chatGPT应用](chatGPT/chatGPT应用.md)
