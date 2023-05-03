@@ -12,8 +12,18 @@
 - [chatGLM微调训练.md](chatGPT/chatGLM微调训练.md)
 - [moss体验.md](chatGPT/moss体验.md)
 
-### 文生图
-
+### stableDiffusion
+- [sd使用0：sd的部署.md](stableDiffusion/sd使用0：sd的部署.md)
+- [sd使用1：helloworld-生成动漫美少女](stableDiffusion/sd使用1：helloworld-生成动漫美少女.md)
+- [sd使用2：文生图](stableDiffusion/sd使用2：文生图.md)
+- [sd使用3：图生图](stableDiffusion/sd使用3：图生图.md)
+- [sd使用4：常见风格模型](stableDiffusion/sd使用4：常见风格模型.md)
+- [sd使用5：高清放大的三种方法](stableDiffusion/sd使用5：高清放大的三种方法.md)
+- [sd使用6：进阶模型(ebeddings-lora-hypernetwork)](stableDiffusion/sd使用6：进阶模型(ebeddings-lora-hypernetwork).md)
+- [sd使用7：图生图的局部重绘](sd使用7：图生图的局部重绘.md)
+- [sd使用8-1：controlnet](stableDiffusion/sd使用8-1：controlnet.md)
+- [sd使用8-2：controlnet-tile](stableDiffusion/sd使用8-2：controlnet-tile.md)
+- [sd使用9：lora训练自己的女友](stableDiffusion/sd使用9：lora训练自己的女友.md)
 
 ### 工作项目
 - [广告文字检测](ad-det.md)
