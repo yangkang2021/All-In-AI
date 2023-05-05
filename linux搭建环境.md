@@ -54,20 +54,35 @@
    - 安装完后的提示信息
    ```
    Driver:   Not Selected
-   Toolkit:  Installed in /usr/local/cuda-11.6/
+   Toolkit:  Installed in /usr/local/cuda-11.7/
    
    Please make sure that
-    -   PATH includes /usr/local/cuda-11.6/bin
-    -   LD_LIBRARY_PATH includes /usr/local/cuda-11.6/lib64, or, add /usr/local/cuda-11.6/lib64 to /etc/ld.so.conf and run ldconfig as root
-   
-   To uninstall the CUDA Toolkit, run cuda-uninstaller in /usr/local/cuda-11.6/bin
-   ***WARNING: Incomplete installation! This installation did not install the CUDA Driver. A driver of version at least 510.00 is required for CUDA 11.6 functionality to work.
+   -   PATH includes /usr/local/cuda-11.7/bin
+   -   LD_LIBRARY_PATH includes /usr/local/cuda-11.7/lib64, or, add /usr/local/cuda-11.7/lib64 to /etc/ld.so.conf and run ldconfig as root
+
+   To uninstall the CUDA Toolkit, run cuda-uninstaller in /usr/local/cuda-11.7/bin
+   ***WARNING: Incomplete installation! This installation did not install the CUDA Driver. A driver of version at least 515.00 is required for CUDA 11.7 functionality to work.
    To install the driver using this installer, run the following command, replacing <CudaInstaller> with the name of this run file:
-       sudo <CudaInstaller>.run --silent --driver
-   
+   sudo <CudaInstaller>.run --silent --driver
    ```
-4. CUDA python + pytorch
-   - pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu117
+   - 根据提示信息设置环境变量
+   ```
+   echo 'export PATH=/usr/local/cuda-11.7/bin:$PATH' >> ~/.bash_profile
+   echo 'export LD_LIBRARY_PATH=/usr/local/cuda-11.7/lib64:$LD_LIBRARY_PATH' >> ~/.bash_profile
+   ```
+4. cudnn c++
+   - 解压拷贝头文件和库文件
+   ```
+   tar -xvf cudnn-linux-x86_64-8.8.0.121_cuda11-archive.tar.xz
+   cd cudnn-linux-x86_64-8.8.0.121_cuda11-archive/
+   sudo cp ./include/cudnn*.h /usr/local/cuda-11.7/include
+   sudo cp ./lib/libcudnn*  /usr/local/cuda-11.7/lib64/
+   sudo chmod a+r  /usr/local/cuda-11.7/include/cudnn.h
+   ```
+5. CUDA python + pytorch
+   ```
+   pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu117
+   ```
 ### 四. 结果
 ![](.images/4980e471.png)
 
