@@ -10,8 +10,8 @@ webui --server-name=0.0.0.0 --share --theme dark --xformers --api --autolaunch
 ```
 http://127.0.0.1:7860/docs
 ```
-
-## 三. 三个实例
+![](.images/4050252f.png)
+## 三. 两个实例
 1. 文生图生成小狗：
     - 接口：'http://127.0.0.1:7860/sdapi/v1/txt2img'
     - [代码：sample-request.py](sample-request.py)
