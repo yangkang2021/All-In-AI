@@ -24,6 +24,7 @@
 - [sd使用8-1：controlnet](stableDiffusion/sd使用8-1：controlnet.md)
 - [sd使用8-2：controlnet-tile](stableDiffusion/sd使用8-2：controlnet-tile.md)
 - [sd使用9：lora训练自己的女友](stableDiffusion/sd使用9：lora训练自己的女友.md)
+- [sd使用10：用api调用sd](stableDiffusion/sd使用10：用api调用sd.md)
 
 ### 工作项目
 - [广告文字检测](ad-det.md)
