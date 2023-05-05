@@ -2,7 +2,7 @@ import os
 import json
 import base64
 import io
-
+import time
 import requests
 import torch
 from torchvision.models.segmentation import fcn_resnet50, FCN_ResNet50_Weights
@@ -156,7 +156,11 @@ if __name__ == '__main__':
     }
     request = generate_request(img_b64, prompt=args.prompt, mask=mask_b64,
                                 negative_prompt=args.negative_prompt, **extra_options)
+    start_time = time.time()
     response = submit_post(IMG2IMG_URL, request)
+    end_time = time.time()
+    print("程序执行了%f秒" % (end_time - start_time))
+
     output_img_b64 = response.json()['images'][0]
 
     # Save images

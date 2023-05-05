@@ -1,6 +1,6 @@
 import json
 import base64
-
+import time
 import requests
 
 
@@ -18,10 +18,13 @@ def save_encoded_image(b64_image: str, output_path: str):
     with open(output_path, "wb") as image_file:
         image_file.write(base64.b64decode(b64_image))
 
-
 if __name__ == '__main__':
     txt2img_url = 'http://127.0.0.1:7860/sdapi/v1/txt2img'
     data = {'prompt': 'a dog wearing a hat'}
+
+    start_time = time.time()
     response = submit_post(txt2img_url, data)
-    print(response)
+    end_time = time.time()
+    print("程序执行了%f秒" % (end_time - start_time))
+
     save_encoded_image(response.json()['images'][0], 'dog.png')

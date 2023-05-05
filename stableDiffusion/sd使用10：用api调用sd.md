@@ -33,7 +33,9 @@ http://127.0.0.1:7860/docs
    - 效果
    - ![woman-on-trail.png](woman-on-trail.png)
    - ![inpaint-person.png](inpaint-person.png)
-
+3. 总结
+   - api调用处理3-7秒一帧
+   - 一个10秒20帧的视频需要10分钟处理完： 10 * 20 * 5 / 60
 
 ## 四. 参考文档
 1. https://towardsdatascience.com/stable-diffusion-as-an-api-5e381aec1f6
