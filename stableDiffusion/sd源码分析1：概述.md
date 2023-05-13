@@ -7,5 +7,10 @@
 3. lora模型
 4. 脚本
 
+
+## 二. 基础知识
+1. [linux(ubuntu22.04)+4090搭建AI工作站](linux搭建环境.md)
+2. [gradio学习总结.md](gradio学习总结.md)
+
 ## 二. 参考源码分析
 https://zhuanlan.zhihu.com/p/617742414
