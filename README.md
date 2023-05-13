@@ -25,7 +25,13 @@
 - [sd使用8-2：controlnet-tile](stableDiffusion/sd使用8-2：controlnet-tile.md)
 - [sd使用9：lora训练自己的女友](stableDiffusion/sd使用9：lora训练自己的女友.md)
 - [sd使用10：用api调用sd](stableDiffusion/sd使用10：用api调用sd.md)
+- [sd使用11：换脸](stableDiffusion/sd使用11：换脸.md)
 
+### stableDiffusion源码阅读
+- [sd源码分析1：概述](stableDiffusion/sd源码分析1：概述.md)
+- [sd源码分析2：启动](stableDiffusion/sd源码分析2：启动.md)
+- [sd源码分析3：ui界面布局](stableDiffusion/sd源码分析3：ui界面布局.md)
+- 
 ### 工作项目
 - [广告文字检测](ad-det.md)
 
