@@ -12,7 +12,7 @@
 - [chatGLM微调训练.md](chatGPT/chatGLM微调训练.md)
 - [moss体验.md](chatGPT/moss体验.md)
 
-### stableDiffusion使用
+### stableDiffusion-ui使用
 - [sd使用0：sd的部署.md](stableDiffusion/sd使用0：sd的部署.md)
 - [sd使用1：helloworld-生成动漫美少女](stableDiffusion/sd使用1：helloworld-生成动漫美少女.md)
 - [sd使用2：文生图](stableDiffusion/sd使用2：文生图.md)
