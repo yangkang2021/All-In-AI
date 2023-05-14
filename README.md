@@ -4,7 +4,7 @@
 - [linux(ubuntu22.04)+4090搭建AI工作站](linux搭建环境.md)
 - [gradio学习总结.md](gradio学习总结.md)
 - [openvino使用.md](openvino使用.md)
-- 
+
 ### 大语言模型
 - [学习李宏毅的《穷人如何低资源复刻自己的ChatGPT》](chatGPT/学习李宏毅的《穷人如何低资源复刻自己的ChatGPT》.md)
 - [chatGPT应用](chatGPT/chatGPT应用.md)
@@ -12,7 +12,7 @@
 - [chatGLM微调训练.md](chatGPT/chatGLM微调训练.md)
 - [moss体验.md](chatGPT/moss体验.md)
 
-### stableDiffusion
+### stableDiffusion使用
 - [sd使用0：sd的部署.md](stableDiffusion/sd使用0：sd的部署.md)
 - [sd使用1：helloworld-生成动漫美少女](stableDiffusion/sd使用1：helloworld-生成动漫美少女.md)
 - [sd使用2：文生图](stableDiffusion/sd使用2：文生图.md)
@@ -31,7 +31,14 @@
 - [sd源码分析1：概述](stableDiffusion/sd源码分析1：概述.md)
 - [sd源码分析2：启动](stableDiffusion/sd源码分析2：启动.md)
 - [sd源码分析3：ui界面布局](stableDiffusion/sd源码分析3：ui界面布局.md)
-- 
+- [sd源码分析4：stableDuffision-ControlNet基本模型与接口调用](stableDiffusion/sd源码分析4：stableDuffision-ControlNet基本模型与接口调用.md)
+- [sd源码分析5：基础模型加载](stableDiffusion/sd源码分析5：基础模型加载.md)]
+- [sd源码分析6：文生图text2img的实现](stableDiffusion/sd源码分析6：文生图text2img的实现.md)
+- [sd源码分析7：图生图与局部重绘](stableDiffusion/sd源码分析7：图生图与局部重绘.md)
+- [sd源码分析8：controlnet](stableDiffusion/sd源码分析8：controlnet.md)
+- [sd源码分析9：lora](stableDiffusion/sd源码分析9：lora.md)
+- [sd源码分析10：脚本](stableDiffusion/sd源码分析10：脚本.md)
+
 ### 工作项目
 - [广告文字检测](ad-det.md)
 
