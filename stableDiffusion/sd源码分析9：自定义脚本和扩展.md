@@ -15,3 +15,7 @@
 script_callbacks.on_ui_settings(on_ui_settings)  # 注册进设置页
 script_callbacks.on_ui_tabs(on_ui_tabs)
 ```
+
+## 三. 开发文档
+- https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Developing-extensions
+- https://link.zhihu.com/?target=https%3A//github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Developing-custom-scripts

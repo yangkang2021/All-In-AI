@@ -35,9 +35,11 @@
 - [sd源码分析5：基础模型加载](stableDiffusion/sd源码分析5：基础模型加载.md)]
 - [sd源码分析6：文生图text2img的实现](stableDiffusion/sd源码分析6：文生图text2img的实现.md)
 - [sd源码分析7：图生图与局部重绘](stableDiffusion/sd源码分析7：图生图与局部重绘.md)
-- [sd源码分析8：controlnet](stableDiffusion/sd源码分析8：controlnet.md)
-- [sd源码分析9：lora](stableDiffusion/sd源码分析9：lora.md)
-- [sd源码分析10：脚本](stableDiffusion/sd源码分析10：脚本.md)
+- [sd源码分析8：脚本](stableDiffusion/sd源码分析18：脚本.md)
+- [sd源码分析9：自定义脚本和扩展](stableDiffusion/sd源码分析9：自定义脚本和扩展.md)
+- [sd源码分析10：controlnet](stableDiffusion/sd源码分析10：controlnet.md)
+- [sd源码分析11：附加模型与lora](stableDiffusion/sd源码分析11：附加模型与lora.md)
+
 
 ### 工作项目
 - [广告文字检测](ad-det.md)
