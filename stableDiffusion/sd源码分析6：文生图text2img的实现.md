@@ -1,4 +1,4 @@
-# sd源码分析5：文生图text2img的实现
+# sd源码分析6：文生图text2img的实现
 > modules/txt2img.py
 > modules/processing.py
 > modules/sd_samplers_kdiffusion.py

@@ -7,7 +7,7 @@
    - CharTurner：角色转身
    - EasyNegative: 可以修复手指等等问题，对二次元模型有效
    - Deep Negative: 对真人有效。
-2. LoRa
+2. LoRa: 完整的风格描述
    - D.va(Overwatch)
 3. Hypernetwork
    - [Toru8P] Waven Chibi Style:Q版人物插画
