@@ -20,9 +20,8 @@
 - [sd使用4：常见风格模型](stableDiffusion/sd使用4：常见风格模型.md)
 - [sd使用5：高清放大的三种方法](stableDiffusion/sd使用5：高清放大的三种方法.md)
 - [sd使用6：进阶模型(ebeddings-lora-hypernetwork)](stableDiffusion/sd使用6：进阶模型(ebeddings-lora-hypernetwork).md)
-- [sd使用7：图生图的局部重绘](sd使用7：图生图的局部重绘.md)
-- [sd使用8-1：controlnet](stableDiffusion/sd使用8-1：controlnet.md)
-- [sd使用8-2：controlnet-tile](stableDiffusion/sd使用8-2：controlnet-tile.md)
+- [sd使用7：图生图的局部重绘](stableDiffusion/sd使用7：图生图的局部重绘.md)
+- [sd使用8：controlnet](stableDiffusion/sd使用8：controlnet.md)
 - [sd使用9：lora训练自己的女友](stableDiffusion/sd使用9：lora训练自己的女友.md)
 - [sd使用10：用api调用sd](stableDiffusion/sd使用10：用api调用sd.md)
 - [sd使用11：换脸](stableDiffusion/sd使用11：换脸.md)
@@ -32,18 +31,18 @@
 - [sd-ui源码分析2：启动](stableDiffusion/sd源码分析2：启动.md)
 - [sd-ui源码分析3：ui界面布局](stableDiffusion/sd源码分析3：ui界面布局.md)
 - [sd-ui源码分析4：stableDuffision-ControlNet基本模型与接口调用](stableDiffusion/sd源码分析4：stableDuffision-ControlNet基本模型与接口调用.md)
-- [sd-ui源码分析5：基础模型加载](stableDiffusion/sd源码分析5：基础模型加载.md)]
+- [sd-ui源码分析5：基础模型加载](stableDiffusion/sd源码分析5：基础模型加载.md)
 - [sd-ui源码分析6：文生图text2img的实现](stableDiffusion/sd源码分析6：文生图text2img的实现.md)
 - [sd-ui源码分析7：图生图与局部重绘](stableDiffusion/sd源码分析7：图生图与局部重绘.md)
-- [sd-ui源码分析8：脚本](stableDiffusion/sd源码分析18：脚本.md)
+- [sd-ui源码分析8：脚本](stableDiffusion/sd源码分析8：脚本.md)
 - [sd-ui源码分析9：自定义脚本和扩展](stableDiffusion/sd源码分析9：自定义脚本和扩展.md)
 - [sd-ui源码分析10：controlnet](stableDiffusion/sd源码分析10：controlnet.md)
 - [sd-ui源码分析11：附加模型与lora](stableDiffusion/sd源码分析11：附加模型与lora.md)
 
 ### stableDiffusion原理篇
-- [sd原理1：stableDiffusion的原理](stableDiffusion/sd原理1：stableDiffusion的原理.md)
-- [sd原理2：ControlNet的原理](stableDiffusion/sd原理2：ControlNet的原理.md)
-- [sd原理3：Lora的原理](stableDiffusion/sd原理3：Lora的原理.md)
+- [sd原理1：stableDiffusion的原理](stableDiffusion/sd原理1：stableDiffusion的原理.md)---未开始
+- [sd原理2：ControlNet的原理](stableDiffusion/sd原理2：ControlNet的原理.md)---未开始
+- [sd原理3：Lora的原理](stableDiffusion/sd原理3：Lora的原理.md)---未开始
 
 ### 工作项目
 - [广告文字检测](ad-det.md)
