@@ -1,7 +1,10 @@
 # sd源码分析6：文生图text2img的实现
 > modules/txt2img.py
+> 
 > modules/processing.py
+> 
 > modules/sd_samplers_kdiffusion.py
+> 
 > repositories/k-diffusion/k_diffusion/sampling.py
 
 ## 一. 调用流程
@@ -12,11 +15,11 @@
 - process_images：如果有脚本会先：modules.scripts.scripts_txt2img.run
 - process_images_inner
 - samples_ddim = p.sample(...)
-- create_sampler/KDiffusionSampler()
-- KDiffusionSampler的sample(...)
-- launch_sampling(...)
-- k_diffusion项目sample_euler_ancestral
-- CFGDenoiser.forward(...)//step次
+  - create_sampler/KDiffusionSampler()
+  - KDiffusionSampler的sample(...)
+  - launch_sampling(...)
+  - k_diffusion项目sample_euler_ancestral
+  - CFGDenoiser.forward(...)//step次
 - res = Processed(p, output_images,...)
 ```
 txt2img_args = dict(

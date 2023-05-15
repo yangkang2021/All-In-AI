@@ -1,7 +1,7 @@
 # sd源码分析11：附加模型与lora
 
 ## 一. 界面显示
-![](.sd源码分析11：lora_images/2b40a188.png)
+![](.images/2b40a188.png)
 
 
 ## 二. 加载

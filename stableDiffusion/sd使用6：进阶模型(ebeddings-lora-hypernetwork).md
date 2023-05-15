@@ -12,6 +12,6 @@
 3. Hypernetwork
    - [Toru8P] Waven Chibi Style:Q版人物插画
 
-
-反推提示词：CLIP和DeepBooru
-固定随机种子seed
+技巧
+- 反推提示词：CLIP和DeepBooru
+- 固定随机种子seed
