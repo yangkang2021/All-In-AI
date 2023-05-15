@@ -1,6 +1,6 @@
 # All-In-AI
 
-### 一. 环境搭建
+## 一. 环境搭建
 - [linux(ubuntu22.04)+4090搭建AI工作站](base/linux搭建环境.md)
 - [gradio学习总结](base/gradio学习总结.md)
 - [openvino使用](base/openvino使用.md)
@@ -20,14 +20,14 @@
 3. [视频加水印](基本算法/视频加水印.md)
 4. [广告文字检测](基本算法/ad-det.md)
 
-### 四. 大语言模型
+## 四. 大语言模型
 - [学习李宏毅的《穷人如何低资源复刻自己的ChatGPT》](chatGPT/学习李宏毅的《穷人如何低资源复刻自己的ChatGPT》.md)
 - [chatGPT应用](chatGPT/chatGPT应用.md)
 - [chatGPT怎么做到同一问题得到不同的答案](chatGPT/chatGPT怎么做到同一问题得到不同的答案.md)
 - [chatGLM微调训练.md](chatGPT/chatGLM微调训练.md)
 - [moss体验.md](chatGPT/moss体验.md)
 
-### 五. stableDiffusion-ui使用
+## 五. stableDiffusion-ui使用
 - [sd使用0：sd的部署.md](stableDiffusion/sd使用0：sd的部署.md)
 - [sd使用1：helloworld-生成动漫美少女](stableDiffusion/sd使用1：helloworld-生成动漫美少女.md)
 - [sd使用2：文生图](stableDiffusion/sd使用2：文生图.md)
@@ -41,7 +41,7 @@
 - [sd使用10：用api调用sd](stableDiffusion/sd使用10：用api调用sd.md)
 - [sd使用11：换脸](stableDiffusion/sd使用11：换脸.md)
 
-### 六. stableDiffusion-ui源码阅读
+## 六. stableDiffusion-ui源码阅读
 - [sd-ui源码分析1：概述](stableDiffusion/sd源码分析1：概述.md)
 - [sd-ui源码分析2：启动](stableDiffusion/sd源码分析2：启动.md)
 - [sd-ui源码分析3：ui界面布局](stableDiffusion/sd源码分析3：ui界面布局.md)
@@ -54,13 +54,13 @@
 - [sd-ui源码分析10：controlnet](stableDiffusion/sd源码分析10：controlnet.md)
 - [sd-ui源码分析11：附加模型与lora](stableDiffusion/sd源码分析11：附加模型与lora.md)
 
-### 七. stableDiffusion原理篇
+## 七. stableDiffusion原理篇
 - [sd原理1：stableDiffusion的原理](stableDiffusion/sd原理1：stableDiffusion的原理.md)---未开始
 - [sd原理2：ControlNet的原理](stableDiffusion/sd原理2：ControlNet的原理.md)---未开始
 - [sd原理3：Lora的原理](stableDiffusion/sd原理3：Lora的原理.md)---未开始
 
-### 八. 数字人
+## 八. 数字人
 - [sadtalker简介](sadtalker/sadtalker简介.md)
 
-### 九. NeRF(新视角合成)
+## 九. NeRF(新视角合成)
 - [学习NeRF](https://gitee.com/yangkang2022/nerf-learn)
