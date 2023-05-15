@@ -1,5 +1,9 @@
 # All-In-AI
 
+## AI换脸-正在更新
+- [换脸-01-概述](faceSwap/faceSwap-01-概述.md)
+- [换脸-02-insightface](faceSwap%2FfaceSwap-02-insightface.md)
+
 ## 一. 环境搭建
 - [linux(ubuntu22.04)+4090搭建AI工作站](base/linux搭建环境.md)
 - [gradio学习总结](base/gradio学习总结.md)
