@@ -9,13 +9,13 @@
 5. 外挂模型VAE：
 
 ## 二. 常见的扩展，插件，扩展网络
-5.ControlNet：用扩展实现的一个脚本功能
-6. vae和lora：一类附加网络
+1. ControlNet：用扩展实现的一个脚本功能
+2. vae和lora：一类附加网络
 
 
 ## 三. 准备基础知识
-1. [linux(ubuntu22.04)+4090搭建AI工作站](linux搭建环境.md)
-2. [gradio学习总结.md](gradio学习总结.md)
+1. [linux(ubuntu22.04)+4090搭建AI工作站](../linux搭建环境.md)
+2. [gradio学习总结.md](../gradio学习总结.md)
 
 ## 四. 参考源码分析
-https://zhuanlan.zhihu.com/p/617742414
+- https://zhuanlan.zhihu.com/p/617742414
