@@ -1,0 +1,19 @@
+# tts-01-概述
+
+## 一. 汇总
+- https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
+
+## 二. ASR
+- whisper： https://github.com/openai/whisper.git
+- wenet：https://github.com/wenet-e2e/wenet.git
+
+## 三. TTS
+- https://github.com/coqui-ai/TTS
+- vits：https://github.com/jaywalnut310/vits
+- http://dongchaoyang.top/InstructTTS/ 没有开源
+
+## 四. SVC:Singing Voice Conversion
+- https://github.com/svc-develop-team/so-vits-svc
+
+## 五. Real-Time-Voice-Cloning
+- https://github.com/CorentinJ/Real-Time-Voice-Cloning.git

@@ -1,8 +1,11 @@
 # All-In-AI
 
 ## AI换脸-正在更新
-- [换脸-01-概述](faceSwap/faceSwap-01-概述.md)
-- [换脸-02-insightface](faceSwap%2FfaceSwap-02-insightface.md)
+- [faceSwap-01-概述](faceSwap/faceSwap-01-概述.md)
+- [faceSwap-02-insightface](faceSwap/faceSwap-02-insightface.md)
+- [faceSwap-03-FaceDancer.md](faceSwap/faceSwap-03-FaceDancer.md)
+- [faceSwap-04-DeepFaceLab.md](faceSwap/faceSwap-04-DeepFaceLab.md)
+- [faceSwap-05-SimSwap.md](faceSwap/faceSwap-05-SimSwap.md)
 
 ## 一. 环境搭建
 - [linux(ubuntu22.04)+4090搭建AI工作站](base/linux搭建环境.md)
@@ -64,9 +67,14 @@
 - [sd原理3：Lora的原理](stableDiffusion/sd原理3：Lora的原理.md)---未开始
 
 ## 八. 数字人
-- [sadtalker简介](sadtalker/sadtalker简介.md)
+- [数字人项目今年终极目标](数字人/目标.md)
+- [sadtalker简介](数字人/sadtalker简介.md)
+- [wav2lip简介](数字人/wav2lip简介.md)
 
 ## 九. NeRF(新视角合成)
 - [学习NeRF](https://gitee.com/yangkang2022/nerf-learn)
 
 ## 十. 语音识别和语音合成
+
+## 十一. 外部链接
+- [AI工具集](https://ai-bot.cn/)
