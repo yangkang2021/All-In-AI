@@ -75,7 +75,7 @@
 - [学习NeRF](https://gitee.com/yangkang2022/nerf-learn)
 
 ## 十. 语音识别和语音合成
-- [tts-01-概述](ASR-TTS/tts-01-概述.md)
+- [AI语音-01-概述](ASR-TTS/AI语音-01-概述.md)
 
 ## 十一. 外部链接
 - [AI工具集](https://ai-bot.cn/)
