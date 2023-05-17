@@ -3,9 +3,9 @@
 ## AI换脸-正在更新
 - [faceSwap-01-概述](faceSwap/faceSwap-01-概述.md)
 - [faceSwap-02-insightface](faceSwap/faceSwap-02-insightface.md)
-- [faceSwap-03-FaceDancer.md](faceSwap/faceSwap-03-FaceDancer.md)
-- [faceSwap-04-DeepFaceLab.md](faceSwap/faceSwap-04-DeepFaceLab.md)
-- [faceSwap-05-SimSwap.md](faceSwap/faceSwap-05-SimSwap.md)
+- [faceSwap-03-FaceDancer](faceSwap/faceSwap-03-FaceDancer.md)
+- [faceSwap-04-DeepFaceLab](faceSwap/faceSwap-04-DeepFaceLab.md)
+- [faceSwap-05-SimSwap](faceSwap/faceSwap-05-SimSwap.md)
 
 ## 一. 环境搭建
 - [linux(ubuntu22.04)+4090搭建AI工作站](base/linux搭建环境.md)
@@ -75,6 +75,7 @@
 - [学习NeRF](https://gitee.com/yangkang2022/nerf-learn)
 
 ## 十. 语音识别和语音合成
+- [tts-01-概述](ASR-TTS/tts-01-概述.md)
 
 ## 十一. 外部链接
 - [AI工具集](https://ai-bot.cn/)

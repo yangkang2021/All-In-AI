@@ -12,8 +12,8 @@
 - vits：https://github.com/jaywalnut310/vits
 - http://dongchaoyang.top/InstructTTS/ 没有开源
 
-## 四. SVC:Singing Voice Conversion
+## 四. AI唱歌:Singing Voice Conversion
 - https://github.com/svc-develop-team/so-vits-svc
 
-## 五. Real-Time-Voice-Cloning
+## 五. 声音克隆：Real-Time-Voice-Cloning
 - https://github.com/CorentinJ/Real-Time-Voice-Cloning.git
