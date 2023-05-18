@@ -60,11 +60,13 @@
 - [sd-ui源码分析9：自定义脚本和扩展](stableDiffusion/sd源码分析9：自定义脚本和扩展.md)
 - [sd-ui源码分析10：controlnet](stableDiffusion/sd源码分析10：controlnet.md)
 - [sd-ui源码分析11：附加模型与lora](stableDiffusion/sd源码分析11：附加模型与lora.md)
+- [sd-ui源码分析12：面部修复](stableDiffusion/sd源码分析12：面部修复.md)
 
 ## 七. stableDiffusion原理篇
 - [sd原理1：stableDiffusion的原理](stableDiffusion/sd原理1：stableDiffusion的原理.md)---未开始
 - [sd原理2：ControlNet的原理](stableDiffusion/sd原理2：ControlNet的原理.md)---未开始
 - [sd原理3：Lora的原理](stableDiffusion/sd原理3：Lora的原理.md)---未开始
+- [sd原理4：面部修复的原理](stableDiffusion/sd原理4：面部修复的原理.md)---未完成
 
 ## 八. 数字人
 - [数字人项目今年终极目标](数字人/目标.md)
