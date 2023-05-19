@@ -9,6 +9,7 @@
 
 ## 一. 环境搭建
 - [linux(ubuntu22.04)+4090搭建AI工作站](base/linux搭建环境.md)
+- [python包管理](base/python包管理.md)
 - [gradio学习总结](base/gradio学习总结.md)
 - [openvino使用](base/openvino使用.md)
 - [各种微调训练方法](base各种微调训练方法.md)
