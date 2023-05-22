@@ -6,22 +6,40 @@
 - [python包管理](base/python包管理.md)
 - [gradio学习总结](base/gradio学习总结.md)
 - [openvino使用](base/openvino使用.md)
-- [各种微调训练方法](base各种微调训练方法.md)
+- [各种微调训练方法](base/各种微调训练方法.md)
+- [组件研发团队](base/组件研发团队.md)
+- [AI工具集](https://ai-bot.cn/)
 
 ## 二. 基本算法
-1. [AI算法汇总](基本算法/AI算法汇总.md)
-2. [AIGC算法汇总](基本算法/AIGC算法汇总.md)
-3. [深度学习简介](基本算法/深度学习简介.pdf)
-4. [美颜](基本算法/美颜.md)
-5. [多目标跟踪算法之deepsort](基本算法/deepsort.md)
-6. [视频加水印](基本算法/视频加水印.md)
-7. [广告文字检测](基本算法/ad-det.md)
-8. [统计学之统计量-相似度公式-距离公式](http://note.youdao.com/noteshare?id=940a04719b5411c743ebc8773a1084ab)
-9. [特殊矩阵：雅可比-海森](http://note.youdao.com/noteshare?id=70dac0d479c400dc7361a2bcd5301d54)
-10. [卡尔曼滤波-个人总结](https://note.youdao.com/ynoteshare1/index.html?id=d017939340c681b27f1c9491bc7b7dce)
+- [基本算法系列](基本算法/README.md)
+- [AI算法汇总](基本算法/AI算法汇总.md)
 
 ## 三. AI绘图（stableDiffusion）
 - [AI绘图系列](stableDiffusion/README.md)
+
+AI绘画的应用场景
+1. 转动漫
+2. 换装
+3. 插画
+4. 面部修复
+5. 老照片上色，修复
+6. 换脸
+7. 光影控制
+8. DragGAN图像编辑
+9. 风格转换
+10. 抠图
+11. 去水印去马赛克
+12. 画质提升
+13. deforum ControlNet生成短视频
+
+AI绘画辅助工具
+1. ControlNet
+2. Segment Anything GroundingDINO
+2. ControlNet1.1的reference_only
+3. deforum ControlNet生成短视频
+4. lora训练
+5. openpose 姿态编辑
+6. DragGAN图像编辑
 
 ## 四. 大语言模型
 - [学习李宏毅的《穷人如何低资源复刻自己的ChatGPT》](chatGPT/学习李宏毅的《穷人如何低资源复刻自己的ChatGPT》.md)
@@ -41,25 +59,3 @@
 
 ## 七. AI换脸
 - [AI换脸系列](faceSwap/README.md)
-
-## 八. 外部工具
-- [AI工具集](https://ai-bot.cn/)
-
-## 九. 组件一个AI研发团队
-一个AI研发团队：
-1. GPT语言模型： 1人
-2. 语言识别，生成，克隆： 1人
-3. 数字人(数字人、三维重建、动作捕捉)：1人
-4. AI绘画：1人
-5. 三维渲染：未来需要1人。
-
-AI 产品团队：
-1. 服务端开发： 1人
-2. Android/ios/pc/web前端： 1人
-3. 产品经理1人
-4. 测试 1人
-5. UI设计 1人
-
-运营团队：
-1. AI绘画与数字人应用探索推荐推广：1人
-2. 运维人员 1人 管理云主机与显卡

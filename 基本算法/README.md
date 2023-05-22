@@ -1,0 +1,11 @@
+# 基本AI算法
+1. [AI算法汇总](AI算法汇总.md)
+2. [AIGC算法汇总](AIGC算法汇总.md)
+3. [深度学习简介](深度学习简介.pdf)
+4. [美颜](美颜.md)
+5. [多目标跟踪算法之deepsort](deepsort.md)
+6. [视频加水印](视频加水印.md)
+7. [广告文字检测](ad-det.md)
+8. [统计学之统计量-相似度公式-距离公式](http://note.youdao.com/noteshare?id=940a04719b5411c743ebc8773a1084ab)
+9. [特殊矩阵：雅可比-海森](http://note.youdao.com/noteshare?id=70dac0d479c400dc7361a2bcd5301d54)
+10. [卡尔曼滤波-个人总结](https://note.youdao.com/ynoteshare1/index.html?id=d017939340c681b27f1c9491bc7b7dce)
