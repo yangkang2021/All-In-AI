@@ -21,7 +21,7 @@
 10. [卡尔曼滤波-个人总结](https://note.youdao.com/ynoteshare1/index.html?id=d017939340c681b27f1c9491bc7b7dce)
 
 ## 三. AI绘图（stableDiffusion）
-- [AI绘图](stableDiffusion/README.md)
+- [AI绘图系列](stableDiffusion/README.md)
 
 ## 四. 大语言模型
 - [学习李宏毅的《穷人如何低资源复刻自己的ChatGPT》](chatGPT/学习李宏毅的《穷人如何低资源复刻自己的ChatGPT》.md)
@@ -40,7 +40,26 @@
 - [AI语音-01-概述](ASR-TTS/AI语音-01-概述.md)
 
 ## 七. AI换脸
-- [AI换脸](faceSwap/README.md)
+- [AI换脸系列](faceSwap/README.md)
 
 ## 八. 外部工具
 - [AI工具集](https://ai-bot.cn/)
+
+## 九. 组件一个AI研发团队
+一个AI研发团队：
+1. GPT语言模型： 1人
+2. 语言识别，生成，克隆： 1人
+3. 数字人(数字人、三维重建、动作捕捉)：1人
+4. AI绘画：1人
+5. 三维渲染：未来需要1人。
+
+AI 产品团队：
+1. 服务端开发： 1人
+2. Android/ios/pc/web前端： 1人
+3. 产品经理1人
+4. 测试 1人
+5. UI设计 1人
+
+运营团队：
+1. AI绘画与数字人应用探索推荐推广：1人
+2. 运维人员 1人 管理云主机与显卡
