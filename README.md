@@ -49,6 +49,7 @@ AI绘画辅助工具
 - [moss体验.md](chatGPT/moss体验.md)
 
 ## 五. 数字人
+- [数字人-01-方案概述](数字人/数字人-01-方案概述.md)
 - [数字人项目今年终极目标](数字人/目标.md)
 - [sadtalker简介](数字人/sadtalker简介.md)
 - [wav2lip简介](数字人/wav2lip简介.md)
