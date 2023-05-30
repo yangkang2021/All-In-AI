@@ -1,6 +1,8 @@
 # All-In-AI
 > 围绕打造两个应用：《GPT数字人》，《AI绘图》
 
+- [AI项目发布记录](AI项目发布记录.md)
+
 ## 一. 环境搭建
 - [linux(ubuntu22.04)+4090搭建AI工作站](base/linux搭建环境.md)
 - [python包管理](base/python包管理.md)
@@ -46,7 +48,8 @@ AI绘画辅助工具
 - [chatGPT应用](chatGPT/chatGPT应用.md)
 - [chatGPT怎么做到同一问题得到不同的答案](chatGPT/chatGPT怎么做到同一问题得到不同的答案.md)
 - [chatGLM微调训练.md](chatGPT/chatGLM微调训练.md)
-- [moss体验.md](chatGPT/moss体验.md)
+- [moss体验](chatGPT/moss体验.md)
+- [gpt模型汇总](chatGPT/gpt模型汇总.md)
 
 ## 五. 数字人
 - [数字人-01-方案概述](数字人/数字人-01-方案概述.md)
