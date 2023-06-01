@@ -1,6 +1,7 @@
 # AI绘图
 
 ## 一. stableDiffusion-ui使用
+- [AI绘画的应用方向](AI绘画的应用方向.md)
 - [sd使用0：sd的部署.md](sd使用0：sd的部署.md)
 - [sd使用1：helloworld-生成动漫美少女](sd使用1：helloworld-生成动漫美少女.md)
 - [sd使用2：文生图](sd使用2：文生图.md)
