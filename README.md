@@ -1,6 +1,10 @@
 # All-In-AI
 > 围绕打造两个应用：《GPT数字人》，《AI绘图》
 
+## 最近更新
+- [AI项目发布记录](基本算法/AI项目发布记录.md)
+- [AI算法汇总](基本算法/AI算法汇总.md)
+
 ## 一. 环境搭建
 - [linux(ubuntu22.04)+4090搭建AI工作站](base/linux搭建环境.md)
 - [python包管理](base/python包管理.md)
@@ -11,9 +15,7 @@
 - [AI工具集](https://ai-bot.cn/)
 
 ## 二. 基本算法
-- [AI项目发布记录](基本算法/AI项目发布记录.md)
 - [基本算法系列](基本算法/README.md)
-- [AI算法汇总](基本算法/AI算法汇总.md)
 
 ## 三. AI绘图（stableDiffusion）
 - [AI绘图系列](stableDiffusion/README.md)
@@ -39,8 +41,3 @@
 
 ## 七. AI换脸
 - [AI换脸系列](faceSwap/README.md)
-
-## 八. 广告检测项目
-- [广告检测-01-实现.md](ad-detect/广告检测-01-实现.md)
-- [广告检测-02-优化1.md](ad-detect/广告检测-02-优化1.md)
-- [广告检测-03-优化2.md](ad-detect/广告检测-03-优化2.md)

@@ -5,3 +5,4 @@
 - Rask.AI：AI视频配音转译 付费
 - sadtalker：语音驱动图像的数字人 开源
 - 最强文本转语音工具：Bark https://github.com/suno-ai/bark
+- google发布styledrop：https://styledrop.github.io/

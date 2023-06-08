@@ -1,6 +1,10 @@
 # 换脸-01-概述
 > 目标：单图、低成本换脸
 
+这两个效果不错：
+1. https://github.com/s0md3v/roop
+2. https://github.com/iperov/DeepFaceLive
+
 三种方案我都试过了：
 1. 用ai绘图的图生图脸部局部重绘 +  训练一个lora模型 --- 太慢了成本差
 2. 单图不训练直接换脸--侧脸很难处理，适合做一些正脸的高能片段
