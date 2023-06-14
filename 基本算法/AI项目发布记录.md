@@ -6,3 +6,7 @@
 - sadtalker：语音驱动图像的数字人 开源
 - 最强文本转语音工具：Bark https://github.com/suno-ai/bark
 - google发布styledrop：https://styledrop.github.io/
+- runway gen2 视频生成
+- Meta 开源了一个 AI 生成音乐工具 Audiocraft，又火了。
+   - 可以直接在线体验：https://huggingface.co/spaces/facebook/MusicGen
+   - 可以离线部署，项目地址：https://github.com/facebookresearch/audiocraft
