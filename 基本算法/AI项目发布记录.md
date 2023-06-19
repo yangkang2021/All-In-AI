@@ -32,5 +32,6 @@
 2.  B站Stable Duffison使用教程
 2. 【promot工程】吴恩达
 2. 吴恩达的三门课，主题包括LangChain、扩散模型，以及用ChatGPT API搭建系统
-3. 小工蚁创始人系列课程
-4. GPT大模型微调方法系列
+5. 大模型参数高效微调技术原理综述 七篇 https://mp.weixin.qq.com/s/M-7ZudD0dvscsApryiPIYw
+6. 小工蚁创始人系列课程
+7. GPT大模型微调方法系列
