@@ -28,6 +28,7 @@
 - [sd-ui源码分析10：controlnet](sd源码分析10：controlnet.md)
 - [sd-ui源码分析11：附加模型与lora](sd源码分析11：附加模型与lora.md)
 - [sd-ui源码分析12：面部修复](sd源码分析12：面部修复.md)
+- [sd-ui源码分析13：高清修复-超分](sd源码分析13：高清修复-超分.md)
 
 ## 三. stableDiffusion原理篇
 - [sd原理1：stableDiffusion的原理](sd原理1：stableDiffusion的原理.md)---未开始
