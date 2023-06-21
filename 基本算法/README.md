@@ -8,3 +8,4 @@
 7. [统计学之统计量-相似度公式-距离公式](http://note.youdao.com/noteshare?id=940a04719b5411c743ebc8773a1084ab)
 8. [特殊矩阵：雅可比-海森](http://note.youdao.com/noteshare?id=70dac0d479c400dc7361a2bcd5301d54)
 9. [卡尔曼滤波-个人总结](https://note.youdao.com/ynoteshare1/index.html?id=d017939340c681b27f1c9491bc7b7dce)
+1. [视频防抖](视频防抖.md)
