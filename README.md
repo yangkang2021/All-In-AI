@@ -13,6 +13,7 @@
 - [各种微调训练方法](base/各种微调训练方法.md)
 - [组件研发团队](base/组件研发团队.md)
 - [AI工具集](https://ai-bot.cn/)
+- [NCNN的使用](base/ncnn.md)
 
 ## 二. 基本算法
 - [基本算法系列](基本算法/README.md)
@@ -35,6 +36,7 @@
 - [sadtalker简介](数字人/sadtalker简介.md)
 - [wav2lip简介](数字人/wav2lip简介.md)
 - [学习NeRF(新视角合成)](https://gitee.com/yangkang2022/nerf-learn)
+- [虚幻引擎MetaHuman数字人](ue/README.md)
 
 ## 六. 语音识别和语音合成
 - [AI语音-01-概述](ASR-TTS/AI语音-01-概述.md)
