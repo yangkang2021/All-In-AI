@@ -23,11 +23,29 @@
    - https://tryondiffusion.github.io/
    - https://mp.weixin.qq.com/s/kKh5FsxxqYe9378GDw41kw
    - 没有demo，也没开源
+1. Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale
+   - 大规模文本引导多语言通用语音生成
+   - https://voicebox.metademolab.com/
+   - https://github.com/SpeechifyInc/Meta-voicebox
+1. FastSAM：Segment Anything算法加速50倍+！
+   - 论文链接-https://arxiv.org/pdf/2306.12156.pdf
+   - 代码链接-https://github.com/CASIA-IVA-Lab/FastSAM
+   - demo链接-https://huggingface.co/spaces/An-619/FastSAM
+1. ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%
+1. MATEBIT：基于参考样本的新图像转换方法
 
-## 二. LLM
+## 二. NeRF+数字人+三维重建
+1. 来自CVPR’23的一篇Highlight论文——《ECON: Explicit Clothed humans Optimized via Normal integration》
+1. MobileNeRF：利用多边形光栅化管道在移动架构上实现高效神经场渲染
+1. Zero-1-to-3: 大模型时代的单视图三维重建
+1. NeRDi: 使用语义引导图像扩散模型的单视图NeRF三维重建
+1. IM Avatar，Point Avatar: 从视频中重建可驱动的三维数字头像模型
+1. Kaedim：3D工具
+
+## 三. LLM
 ![](.images/cd2e8ab3.png)
 
-## 三. 主要课程
+## 四. 主要课程
 1. 【生成式AI】李宏毅2023春季课程:https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php
 2.  B站Stable Duffison使用教程
 2. 【promot工程】吴恩达
