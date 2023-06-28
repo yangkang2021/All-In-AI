@@ -33,6 +33,10 @@
    - demo链接-https://huggingface.co/spaces/An-619/FastSAM
 1. ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%
 1. MATEBIT：基于参考样本的新图像转换方法
+1. MobileSAM来啦 | 比SAM小60倍，比FastSAM快4倍
+1. AvatarBooth：几张照片即可定制自己的3D化身，还能换装！
+1. BAD-NeRF，针对图像退化！CVPR23
+1. phi-1: 用规模仅为 7B token 的「教科书质量」数据训练了一个 1.3B（13 亿参数）的语言模型 
 
 ## 二. NeRF+数字人+三维重建
 1. 来自CVPR’23的一篇Highlight论文——《ECON: Explicit Clothed humans Optimized via Normal integration》
