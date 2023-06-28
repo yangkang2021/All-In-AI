@@ -42,8 +42,14 @@
 1. 来自CVPR’23的一篇Highlight论文——《ECON: Explicit Clothed humans Optimized via Normal integration》
 1. MobileNeRF：利用多边形光栅化管道在移动架构上实现高效神经场渲染
 1. Zero-1-to-3: 大模型时代的单视图三维重建
+   - https://zero123.cs.columbia.edu/
+   - https://github.com/cvlab-columbia/zero123
+   - https://huggingface.co/spaces/cvlab/zero123-live
 1. NeRDi: 使用语义引导图像扩散模型的单视图NeRF三维重建
+   - NeRDi
 1. IM Avatar，Point Avatar: 从视频中重建可驱动的三维数字头像模型
+   - https://github.com/zhengyuf/IMavatar
+   - https://github.com/zhengyuf/PointAvatar
 1. Kaedim：3D工具
 
 ## 三. LLM
