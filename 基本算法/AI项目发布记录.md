@@ -5,6 +5,7 @@
 1. Segment Anything：4 月初，Meta 发布了史上首个图像分割基础模型--SAM（Segment Anything Model）
 1. Inpaint Anything：基于 SAM，提出「修补一切」（Inpaint Anything，简称 IA）模型
 1. dragGAN：AI图像拖动编辑, 有人实现并开源
+   - https://github.com/XingangPan/DragGAN
 1. Massively Multilingual Speech:Meta 的开源语音 AI 项目 MMS 可识别 4000 多种口头语言
 1. Rask.AI：AI视频配音转译 付费
 1. sadtalker：语音驱动图像的数字人 开源
@@ -36,7 +37,11 @@
 1. MobileSAM来啦 | 比SAM小60倍，比FastSAM快4倍
 1. AvatarBooth：几张照片即可定制自己的3D化身，还能换装！
 1. BAD-NeRF，针对图像退化！CVPR23
-1. phi-1: 用规模仅为 7B token 的「教科书质量」数据训练了一个 1.3B（13 亿参数）的语言模型 
+1. phi-1: 用规模仅为 7B token 的「教科书质量」数据训练了一个 1.3B（13 亿参数）的语言模型
+2. CVPR2023| GamutMLP:一个轻量级 MLP用于颜色损失恢复
+3. [CVPR 2023] Removing Objects From Neural Radiance Fields
+   - https://github.com/nianticlabs/nerf-object-removal
+1. cvpr2023候选：https://blog.csdn.net/Mikasa33/article/details/131207123
 
 ## 二. NeRF+数字人+三维重建
 1. 来自CVPR’23的一篇Highlight论文——《ECON: Explicit Clothed humans Optimized via Normal integration》
@@ -50,6 +55,10 @@
 1. IM Avatar，Point Avatar: 从视频中重建可驱动的三维数字头像模型
    - https://github.com/zhengyuf/IMavatar
    - https://github.com/zhengyuf/PointAvatar
+1. PanoHead: 几何感知的3D头部360度合成。
+   - Geometry-Aware 3D Full-Head Synthesis in 360°
+   - https://github.com/SizheAn/PanoHead
+   - https://sizhean.github.io/panohead
 1. Kaedim：3D工具
 
 ## 三. LLM
