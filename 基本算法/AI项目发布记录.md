@@ -35,30 +35,38 @@
 1. ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%
 1. MATEBIT：基于参考样本的新图像转换方法
 1. MobileSAM来啦 | 比SAM小60倍，比FastSAM快4倍
-1. AvatarBooth：几张照片即可定制自己的3D化身，还能换装！
-1. BAD-NeRF，针对图像退化！CVPR23
 1. phi-1: 用规模仅为 7B token 的「教科书质量」数据训练了一个 1.3B（13 亿参数）的语言模型
 2. CVPR2023| GamutMLP:一个轻量级 MLP用于颜色损失恢复
-3. [CVPR 2023] Removing Objects From Neural Radiance Fields
-   - https://github.com/nianticlabs/nerf-object-removal
-1. cvpr2023候选：https://blog.csdn.net/Mikasa33/article/details/131207123
+1. CVPR2023
+   - 候选：https://blog.csdn.net/Mikasa33/article/details/131207123
+   - 全部论文：https://openaccess.thecvf.com/CVPR2023?day=all
+   - 分类整理：https://github.com/amusi/CVPR2023-Papers-with-Code
+1. ChatLaw: 北大打造法律大模型
+
 
 ## 二. NeRF+数字人+三维重建
-1. 来自CVPR’23的一篇Highlight论文——《ECON: Explicit Clothed humans Optimized via Normal integration》
+### 单图三维重建
+1. ECON: Explicit Clothed humans Optimized via Normal integration
+   - 通过正常法向优化的显性穿衣人类
 1. MobileNeRF：利用多边形光栅化管道在移动架构上实现高效神经场渲染
 1. Zero-1-to-3: 大模型时代的单视图三维重建
    - https://zero123.cs.columbia.edu/
    - https://github.com/cvlab-columbia/zero123
    - https://huggingface.co/spaces/cvlab/zero123-live
 1. NeRDi: 使用语义引导图像扩散模型的单视图NeRF三维重建
-   - NeRDi
-1. IM Avatar，Point Avatar: 从视频中重建可驱动的三维数字头像模型
-   - https://github.com/zhengyuf/IMavatar
-   - https://github.com/zhengyuf/PointAvatar
+1. AvatarBooth：几张照片即可定制自己的3D化身，还能换装！
 1. PanoHead: 几何感知的3D头部360度合成。
    - Geometry-Aware 3D Full-Head Synthesis in 360°
    - https://github.com/SizheAn/PanoHead
    - https://sizhean.github.io/panohead
+   
+### 其他
+2. IM Avatar，Point Avatar: 从视频中重建可驱动的三维数字头像模型
+   - https://github.com/zhengyuf/IMavatar
+   - https://github.com/zhengyuf/PointAvatar
+1. BAD-NeRF，针对图像退化！CVPR23
+1. [CVPR 2023] Removing Objects From Neural Radiance Fields
+   - https://github.com/nianticlabs/nerf-object-removal
 1. Kaedim：3D工具
 
 ## 三. LLM
