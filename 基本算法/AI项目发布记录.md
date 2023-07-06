@@ -42,7 +42,9 @@
    - 全部论文：https://openaccess.thecvf.com/CVPR2023?day=all
    - 分类整理：https://github.com/amusi/CVPR2023-Papers-with-Code
 1. ChatLaw: 北大打造法律大模型
-
+   - 官方地址：https://www.chatlaw.cloud
+   - GitHub地址：https://github.com/PKU-YuanGroup/ChatLaw
+   - 论文地址：https://arxiv.org/abs/2306.16092
 
 ## 二. NeRF+数字人+三维重建
 ### 单图三维重建

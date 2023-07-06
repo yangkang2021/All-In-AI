@@ -1,6 +1,6 @@
 # python包管理
 
-## 一. conda虚拟空间
+## 一. python虚拟环境
 1. 删除创建conda激活虚拟环境
 ```
 # 1.删除创建conda激活虚拟环境
@@ -8,7 +8,8 @@ conda remove -n neuman_env --all
 conda create -n neuman_env python=3.9.13
 conda activate neuman_env
 ```
-2. python env虚拟环境
+2. python env虚拟环境--**推荐使用**
+> 推荐使用这种方式：在每个项目的目录下，创建只属于本项目的环境
 ```
  pip install virtualenv 安装virtualenv
  virtualenv env_name  创建虚拟环境

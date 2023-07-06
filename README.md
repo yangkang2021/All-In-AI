@@ -33,9 +33,12 @@
 
 ## 五. 数字人
 - [数字人-01-方案概述](数字人/数字人-01-方案概述.md)
+- [数字人-02-sadtalker简介](数字人/数字人-02-sadtalker简介.md)
+- [数字人-03-sadtalker源码解读](数字人/数字人-03-sadtalker源码解读.md)
+- [数字人-04-sadtalker模型结构与训练方法](数字人/数字人-04-sadtalker模型结构与训练方法.md)
+- [数字人-05-sadtalker性能测试与优化](数字人/数字人-05-sadtalker性能测试与优化.md)
+- [数字人-06-sadtalker最佳实践](数字人/数字人-06-sadtalker最佳实践.md)
 - [数字人项目今年终极目标](数字人/目标.md)
-- [sadtalker简介](数字人/sadtalker简介.md)
-- [wav2lip简介](数字人/wav2lip简介.md)
 - [学习NeRF(新视角合成)](https://gitee.com/yangkang2022/nerf-learn)
 - [虚幻引擎MetaHuman数字人](ue/README.md)
 
