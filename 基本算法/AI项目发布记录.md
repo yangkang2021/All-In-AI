@@ -45,6 +45,26 @@
    - 官方地址：https://www.chatlaw.cloud
    - GitHub地址：https://github.com/PKU-YuanGroup/ChatLaw
    - 论文地址：https://arxiv.org/abs/2306.16092
+1. ICCV2023
+   - https://github.com/amusi/ICCV2023-Papers-with-Code
+1. llama2开源可商用
+2. Mega-TTS 2 没有开源
+   - 浙江大学联手字节跳动推出的 Mega-TTS 2，目前最强中文语音AI，在音色、韵律方便处理得非常出色
+1. CoTracker
+   - 跟踪任意长视频中的任意多个点，并且可以随时添加新的点进行跟踪！
+   - Meta最新开源！跟踪一切升级版！性能超越OmniMotion！
+   - https://mp.weixin.qq.com/s/9UtGiWOBnoQ5qMQ_a-RInA
+2. MotionBERT: 人体运动表征学习的统一视角
+   - ICCV 2023
+   - 论文链接：https://arxiv.org/pdf/2210.06551.pdf
+   - 开源代码：https://github.com/Walter0807/MotionBERT
+   - 项目主页：https://motionbert.github.io/
+   - 视频介绍：https://www.youtube.com/watch?v=slSPQ9hNLjM
+   - https://mp.weixin.qq.com/s/pSrT41h_042B70fKx4Y9Rw
+1. SegNetr
+   - 超越UNeXit/U-Net/U-Net++/SegNet，精度更高模型更小的UNet家族
+1. Semantic-SAM
+   - 多粒度的语义通用分割模型
 
 ## 二. NeRF+数字人+三维重建
 ### 单图三维重建

@@ -12,9 +12,9 @@ conda activate neuman_env
 > 推荐使用这种方式：在每个项目的目录下，创建只属于本项目的环境
 ```
  pip install virtualenv 安装virtualenv
- virtualenv env_name  创建虚拟环境
- env_name/Scripts/activate  激活
- env_name/Scripts/deactivate 反激活
+ virtualenv venv  创建虚拟环境
+ venv\Scripts\activate  激活
+ venv\Scripts\deactivate 反激活
 ```
 
 ## 二. pip从指定的国内源安装
