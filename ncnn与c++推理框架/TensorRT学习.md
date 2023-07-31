@@ -28,3 +28,8 @@
 1. P10 9、高性能低耦合 26:34
 ![](.images/2a3b5a25.png)
 1. P11 10、YOLOX集成
+
+## 三. 嵌入式jetson上允许tensorRT
+- https://github.com/dusty-nv/jetson-inference
+- https://elinux.org/Jetson_Zoo
+- 姿态估计: https://github.com/NVIDIA-AI-IOT/trt_pose
