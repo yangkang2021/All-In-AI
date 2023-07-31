@@ -2,20 +2,20 @@
 > 围绕打造两个应用：《GPT数字人》，《AI绘图》
 
 ## 最近更新
+- [ncnn与c++推理框架](ncnn与c++推理框架/README.md)
 - [AI项目发布记录](基本算法/AI项目发布记录.md)
 - [AI算法汇总](基本算法/AI算法汇总.md)
 - [AI模型实现原理](基本算法/AI模型实现原理.md)
 - [深度学习-基础知识](深度学习-基础知识.md)
 
+
 ## 一. 环境搭建
 - [linux(ubuntu22.04)+4090搭建AI工作站](base/linux搭建环境.md)
 - [python包管理](base/python包管理.md)
 - [gradio学习总结](base/gradio学习总结.md)
-- [openvino使用](base/openvino使用.md)
 - [各种微调训练方法](base/各种微调训练方法.md)
 - [组件研发团队](base/组件研发团队.md)
 - [AI工具集](https://ai-bot.cn/)
-- [NCNN的使用](base/ncnn.md)
 
 ## 二. 基本算法
 - [基本算法系列](基本算法/README.md)
