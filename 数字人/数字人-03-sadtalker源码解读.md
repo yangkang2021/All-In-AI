@@ -5,13 +5,13 @@
 1. 分old_version和new_version
 2. 看看模型与文件
    ```
-   SadTalker\checkpoints
-   ├── SadTalker_V0.0.2_256.safetensors
-   ├── SadTalker_V0.0.2_512.safetensors
-   ├── mapping_00109-model.pth.tar
+   SadTalker\checkpoints //下载自sadtalker.zip
+   ├── SadTalker_V0.0.2_256.safetensors  //256的模型
+   ├── SadTalker_V0.0.2_512.safetensors  //512的模型
+   ├── mapping_00109-model.pth.tar       //full mapping
    └── mapping_00229-model.pth.tar
    
-   SadTalker\gfpgan
+   SadTalker\gfpgan //下载自gfpgan.zip
    └── weights
        ├── GFPGANv1.4.pth
        ├── alignment_WFLW_4HG.pth
@@ -88,17 +88,21 @@
 
 1. main运行模型2-音频转pose和exp
    - batch = get_data(first_coeff_path, audio_path, device, ref_eyeblink_coeff_path, still=args.still)
-     - 计算梅尔普，参考眨眼文件
+     - 计算梅尔普，参考眨眼文件后的第一次三维人脸参数
    - coeff_path = audio_to_coeff.generate
      - 梅尔普转表情和姿态，保存到xxx.mat
      - 参考了pose文件
      
 1. main运行模型3-视频渲染
    - gen_composed_video
-     - 跳过先
+     - 3dface的可视化
    - data = get_facerender_data
-     - 获取视频
+     - 对人脸参数进行处理：如expression_scale，旋转角度控制等
    - result = animate_from_coeff.generate
      - make_animation：渲染视频
+       - self.kp_extractor = kp_extractor 
+       - self.generator = generator
+       - self.he_estimator = he_estimator //None
+       - self.mapping = mapping
      - enhancer_generator_with_len：增强
 

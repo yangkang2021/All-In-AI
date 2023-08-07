@@ -15,6 +15,9 @@ conda activate neuman_env
  virtualenv venv  创建虚拟环境
  venv\Scripts\activate  激活
  venv\Scripts\deactivate 反激活
+ 
+ venv\bin\activate  linux激活
+ venv\bin\deactivate linux反激活
 ```
 
 ## 二. pip从指定的国内源安装

@@ -68,6 +68,8 @@
 1. llama2.c
    - https://github.com/karpathy/llama2.c
    - 仅仅500行的一个C文件(run.c)跑llama2
+1. Qwen-7B
+   - https://github.com/QwenLM/Qwen-7B
 
 ## 二. NeRF+数字人+三维重建
 ### 单图三维重建
