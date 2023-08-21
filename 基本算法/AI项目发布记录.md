@@ -68,8 +68,31 @@
 1. llama2.c
    - https://github.com/karpathy/llama2.c
    - 仅仅500行的一个C文件(run.c)跑llama2
-1. Qwen-7B
+1. Qwen-7B 阿里通义千问开源
    - https://github.com/QwenLM/Qwen-7B
+1. SketchFaceNeRF
+   - NeRF基于线稿生成逼真三维人脸，细节风格随意改
+   - https://mp.weixin.qq.com/s/36nDnxg4z9vXO0L0kQSSag
+1. GeneFace
+   - 代码：https://github.com/yerfor/GeneFace
+   - 论文：https://arxiv.org/pdf/2301.13430.pdf
+   - 数字人生成新算法，优于RAD-NERF，AD-NERF
+1. facechain
+   - https://github.com/modelscope/facechain
+   - 【妙鸭相机】开源版
+   - 数字人图像生成
+1. 鸭嘴兽（Platypus 2-70B）
+   - 登顶Hugging Face大模型排行榜，超越llama2
+1. DWPose
+   - 全身关键点检测SOTA模型DWPose,超越RTMPose，登顶 COCO-WholeBody
+1. VCT
+   - 风格迁移新方案
+   - https://github.com/CrystalNeuro/visual-concept-translator
+1. AudioCraft Plus
+   - 基于原始AudioCraft的全功能WebUI。
+1. CoDeF
+   - 视频版ControlNet开源 CoDeF靠提示词就能精准切换画风
+   - https://github.com/qiuyu96/CoDeF
 
 ## 二. NeRF+数字人+三维重建
 ### 单图三维重建
@@ -107,3 +130,7 @@
 5. 大模型参数高效微调技术原理综述 七篇 https://mp.weixin.qq.com/s/M-7ZudD0dvscsApryiPIYw
 6. 小工蚁创始人系列课程
 7. GPT大模型微调方法系列
+8. 刘烨斌《基于NeRF的三维视觉年度进展报告》：https://www.bilibili.com/video/BV16x4y1X7WG/
+9. 加速NeRF的移动端实时渲染方法MobileR2L
+10. 学习moss的原理：openmmlab 
+11. chatGPT的18个能力
