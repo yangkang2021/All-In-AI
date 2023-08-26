@@ -24,6 +24,7 @@ conda activate neuman_env
 ```
 pip install xxx -i https://pypi.douban.com/simple/
 pip install xxx -i https://pypi.tuna.tsinghua.edu.cn/simple/
+pip config set global.index-url https://mirrors.aliyun.com/pypi/simple/
 ```
 
 ## 三. 安装python包的N种方法

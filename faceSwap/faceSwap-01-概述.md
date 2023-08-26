@@ -23,7 +23,10 @@ https://github.com/e4s2022/e4s
     - HifiFace
     - FaceDancer https://huggingface.co/spaces/felixrosberg/face-swap
     - MobileFaceSwap
-
+1. FaceFusion
+   - 下一代的换脸方案和
+   - https://github.com/facefusion/facefusion
+   
 ## 二. 开源方案汇总
 - [insightface](https://github.com/deepinsight/insightface/blob/master/examples/in_swapper/README.md)
 - https://github.com/DaddyJin/awesome-faceSwap

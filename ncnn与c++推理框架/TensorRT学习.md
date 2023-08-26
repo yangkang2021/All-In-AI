@@ -4,6 +4,7 @@
   - https://github.com/pytorch/TensorRT
   - https://github.com/NVIDIA/TensorRT
   - https://github.com/onnx/onnx-tensorrt
+  - pytorch2.0中的TorchDynamo模块:https://mp.weixin.qq.com/s/CEK6NcX9QB8mgqywApLQrQ
 
 ## 二. 课程
 > 另外还有三门课程：官方的，贾老师的，此作者的
