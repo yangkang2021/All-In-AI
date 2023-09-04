@@ -30,7 +30,13 @@
 1. CareLlama(关怀羊驼)
    - 医疗大模型，开源驱动，共创健康未来
    - https://github.com/WangRongsheng/CareLlama
-1. https://github.com/fighting41love/funNLP   
+1. StarGLM
+   - 天文大语言模型
+   - http://github.com/Yu-Yang-Li/StarGLM
+1. MathGPT
+   - 国内首个数学大模型MathGPT 1300亿参数
+1. DoctorGPT发布，免费的私人医疗咨询
+
 ## 三. 语音模型
 1. whisper：openapi发布语音识别
 1. MMS(Massively Multilingual Speech):Meta 的开源语音 AI 项目 MMS 可识别 4000 多种口头语言
@@ -53,6 +59,8 @@
    - [2]论文：https://ai.meta.com/research/publications/seamless-m4t/
    - [3]在线演示：https://seamless.metademolab.com/
    - [4]huggingface演示：https://huggingface.co/spaces/facebook/seamless_m4t
+1. 微软最新的语音生成和转换模型
+   - https://github.com/Plachtaa/VALL-E-X
 
 ## 四. AI绘画与视觉模型
 1. ControlNet
@@ -90,8 +98,11 @@
    - 视频版ControlNet开源 CoDeF靠提示词就能精准切换画风
    - https://github.com/qiuyu96/CoDeF
 
-## 五. 修复超分和增强
-1. realSR
+## 五. 修复+超分+上色+补帧+增强
+1. CodeFormer 
+2. GFPGAN
+2. Bringing Old Photo Back to Life
+2. realSR
 1. Bicubic++
    - 实时超分方案
    - https://github.com/Ysnower/bicubic-plusplus
@@ -144,6 +155,12 @@
    - NeRF基于线稿生成逼真三维人脸，细节风格随意改
    - https://mp.weixin.qq.com/s/36nDnxg4z9vXO0L0kQSSag
 1. StyleRF: Zero-shot 3D Style Transfer of Neural Radiance Fields
+2. 字节跳动提出MagicAvatar：多模态Avatar生成和动画
+   - MagicAvatar: Multimodal Avatar Generation and Animation 
+   - 主页：https://magic-avatar.github.io/ 
+   - 代码：https://github.com/magic-research/magic-avatar 
+   - 论文：https://arxiv.org/abs/2308.14748
+   
 ## 七. 主要课程
 1. 【生成式AI】李宏毅2023春季课程:https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php
 2.  B站Stable Duffison使用教程
@@ -156,5 +173,3 @@
 9. 加速NeRF的移动端实时渲染方法MobileR2L
 10. 学习moss的原理：openmmlab 
 11. chatGPT的18个能力
-
-![](.images/cd2e8ab3.png)
