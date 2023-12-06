@@ -36,6 +36,11 @@
 1. MathGPT
    - 国内首个数学大模型MathGPT 1300亿参数
 1. DoctorGPT发布，免费的私人医疗咨询
+   - https://github.com/ingyamilmolinar/doctorgpt
+1. MindChat心理大模型
+   - https://github.com/X-D-Lab/MindChat
+1. open-interpreter开源版代码解释器
+   - https://github.com/KillianLucas/open-interpreter
 
 ## 三. 语音模型
 1. whisper：openapi发布语音识别
@@ -97,6 +102,8 @@
 1. CoDeF
    - 视频版ControlNet开源 CoDeF靠提示词就能精准切换画风
    - https://github.com/qiuyu96/CoDeF
+1. DALL·E 3
+   - DALL·E 3+ChatGPT强强联合，画面直接细节爆炸
 
 ## 五. 修复+超分+上色+补帧+增强
 1. CodeFormer 
