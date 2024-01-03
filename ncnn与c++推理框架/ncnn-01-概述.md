@@ -22,3 +22,7 @@
    - [Windows/Linux/MacOS 编译 PNNX 步骤](https://zhuanlan.zhihu.com/p/431833958);
 3. 源码学习笔记
    - [ncnn源码学习一到十](https://zhuanlan.zhihu.com/p/454835595)
+   
+## 三. 扩展
+1. vulkan与ncnn的交互
+   - https://github.com/nvpro-samples/gl_vk_simple_interop

@@ -12,5 +12,6 @@
 - [TensorRT学习](TensorRT学习.md)
 - libtroch从pytorch源码编译：# https://github.com/AllentDan/LibtorchTutorials/tree/main
 - H100推理飙升8倍！英伟达官宣开源TensorRT-LLM，支持10+模型
+- [onnxruntime.md](onnxruntime.md)
 
 
