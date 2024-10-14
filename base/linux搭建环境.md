@@ -67,17 +67,17 @@
    ```
    - 根据提示信息设置环境变量
    ```
-   echo 'export PATH=/usr/local/cuda-11.7/bin:$PATH' >> ~/.bash_profile
-   echo 'export LD_LIBRARY_PATH=/usr/local/cuda-11.7/lib64:$LD_LIBRARY_PATH' >> ~/.bash_profile
+   echo 'export PATH=/usr/local/cuda-11.8/bin:$PATH' >> ~/.bash_profile
+   echo 'export LD_LIBRARY_PATH=/usr/local/cuda-11.8/lib64:$LD_LIBRARY_PATH' >> ~/.bash_profile
    ```
 4. cudnn c++
    - 解压拷贝头文件和库文件
    ```
-   tar -xvf cudnn-linux-x86_64-8.8.0.121_cuda11-archive.tar.xz
-   cd cudnn-linux-x86_64-8.8.0.121_cuda11-archive/
-   sudo cp ./include/cudnn*.h /usr/local/cuda-11.7/include
-   sudo cp ./lib/libcudnn*  /usr/local/cuda-11.7/lib64/
-   sudo chmod a+r  /usr/local/cuda-11.7/include/cudnn.h
+   tar -xvf cudnn-linux-x86_64-8.9.7.29_cuda11-archive.tar.xz
+   cd cudnn-linux-x86_64-8.9.7.29_cuda11-archive/
+   sudo cp ./include/cudnn*.h /usr/local/cuda-11.8/include
+   sudo cp ./lib/libcudnn*  /usr/local/cuda-11.8/lib64/
+   sudo chmod a+r  /usr/local/cuda-11.8/include/cudnn.h
    ```
 5. CUDA python + pytorch
    ```
