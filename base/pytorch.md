@@ -29,11 +29,12 @@
 1. Pytorch的tensor矩阵操作
    - torch的类型转换https://codeleading.com/article/20665429954/
    - torch.unsqueeze/squeeze 在指定的位置插入/删除一个维度
+   - torch.view/reshape  view要求is_contiguous。**数据顺序不变**
    - torch.premute/transpose 调换维度顺序
    - torch.flatten(x,1)代表从第二维开始平坦化。
    - torch.flatten(x,0,1)代表在第一维和第二维之间平坦化。
-   - torch.view/reshape  view要求is_contiguous
    - torch.cat/concat 拼接数组或者列表或者元组
+   - torch.split 拆成数组
    - torch.stack 增加一维的拼接相同矩阵
    - torch.expand/expand_as/repeat 重复扩展矩阵
    - torch.clamp 限制范围

@@ -180,3 +180,5 @@
 9. 加速NeRF的移动端实时渲染方法MobileR2L
 10. 学习moss的原理：openmmlab 
 11. chatGPT的18个能力
+12. Intel 的大模型课程: https://www.igbacenter.com/special/aipc
+13. Karpathy和吴恩达关于 chatgpt和大模型的课程
