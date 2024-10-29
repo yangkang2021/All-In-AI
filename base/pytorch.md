@@ -38,6 +38,10 @@
    - torch.stack 增加一维的拼接相同矩阵
    - torch.expand/expand_as/repeat 重复扩展矩阵
    - torch.clamp 限制范围
+   - torch.matmul
+   - torch.nn.functional.grid_sample: 实现特征图采样，如矩阵变换
+   - torch.zeors/ones: 快速的参数tensor
+
 1. Pytorch实现RGByuv转换
   - https://github.com/Aaron7noraA/MIMT_final/blob/0c640b48352648333a4c5fbca0db9ec4776d402a/util/vision.py#L64
   - https://github.com/LARG/spl_yolov5/blob/b70367759975c63d0a426a94bd085d772cb63eb3/models/common.py#L332
@@ -45,3 +49,15 @@
 
 ## libtorch
 1. libtorch踩坑指南 https://mp.weixin.qq.com/s/MbACadrA2c53jyATyaGEyQ
+
+## 代码片段
+   ```
+     #只保留修改层的权重
+     checkpoint_syncnet = {k: v for k, v in checkpoint_syncnet.items() if not k.startswith('audio_encoder.audio_conv.0.conv')}
+     #只训练一部分参数
+     for name, value in net_lipsync.named_parameters():
+         if name.startswith('audio_encoder.audio_conv.0.conv'):
+             value.requires_grad = True
+         else:
+             value.requires_grad = False
+   ```

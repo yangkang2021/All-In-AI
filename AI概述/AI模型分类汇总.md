@@ -16,7 +16,8 @@
 11. Mamba
 12. TTT
 13. xLSTM
-14. FlashAttention-3 
+14. FlashAttention-3
+15. bitnet.cpp
 
 ## 二. CV模型
 1. 图像分类
