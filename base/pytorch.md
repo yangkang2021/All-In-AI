@@ -1,6 +1,18 @@
 # pytorch
 
-## 三. pytorch
+## 一. 疑难点
+1. 区分reshape，premute
+   - reshape：不改变数据
+   - premute：交换通道，要改变数据
+2. 区分squeeze，cat(split(x, 1, dim=1), dim=0)
+   - cat(split(x, 1, dim=1), dim=0)：减少通道，要改变数据。
+   - squeeze：减少一个维度为1的通道，数据不动
+3. 区分permute transpose
+   - Pytorch中的.view()和.reshape()与Numpy中的.reshape()作用相同
+   - Pytorch中的.permute()与Numpy中的.transpose()作用完全一致
+   - Pytorch中.transpose()也是用来交换维度的，但是只能用于交换两个维度
+
+## 二. 知识点
 1. Pytorch中的Embedding https://blog.51cto.com/u_15127639/4079442
 1. [【PyTorch】torch.utils.data.Dataset 介绍与实战](https://blog.csdn.net/weixin_44211968/article/details/123744513)
 1. PyTorch的DataParallel
