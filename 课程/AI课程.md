@@ -12,6 +12,7 @@
     - [karpathy-nanoGPT](https://github.com/karpathy/nanoGPT)
     - [karpathy-build-nanoGPT](https://github.com/karpathy/build-nanogpt)
     - https://www.bilibili.com/video/BV1hr42147xc
+    - Build-a-Large-Language-Model-From-Scratch-2024.pdf
 5. 博主
     - 文哲
     - 小工蚁

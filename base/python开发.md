@@ -4,7 +4,7 @@
 1. python中enumerate的用法：遍历时候拿到索引
 2. tqdm的用法：遍历是显示进度和时间
     ```
-    for i in tqdm(range(num_frames), 'mel:'):
+    for i in tqdm(range(num_frames), total=num_frames, desc='mel:'):
         print(i)
     ```
 3. 单元数转tuple:tuple_2 = (20,)

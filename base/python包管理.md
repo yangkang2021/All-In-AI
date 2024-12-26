@@ -44,12 +44,13 @@
 ## 四. 安装python包的N种方法
 | 序号  | 方式  | 说明                                                                      |
 |-----|-----|-------------------------------------------------------------------------|
-| 1 | conda install | conda安装                                                                 |
-| 2 | pip install | pip安装                                                                   |
-| 3 | pip install | xxx.whl 离线包                                                             |
-| 4 | pip install | "git+https://github.com/facebookresearch/pytorch3d.git@stable" 从github安装 |
-| 5 | python setup.py install | 从源码安装                                                             |
-| 6 | pip install .| 从源码安装, -e创建链接可以实时更改                                             |
+| 1   | conda install | conda安装                                                                 |
+| 2   | pip install | pip安装                                                                   |
+| 3   | pip install | xxx.whl 离线包                                                             |
+| 4   | pip install | "git+https://github.com/facebookresearch/pytorch3d.git@stable" 从github安装 |
+| 5   | python setup.py install | 从源码安装                                                             |
+| 6   | pip install .| 从源码安装, -e创建链接可以实时更改                                             |
+ | 7   |python3 setup.py bdist_wheel|生成whl后安装pip install ./dist/*.whl|
 
 ## 五. 查看包信息
    ```
